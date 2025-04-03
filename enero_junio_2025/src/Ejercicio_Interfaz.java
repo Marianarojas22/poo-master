@@ -1,6 +1,6 @@
-public class Ejercicio_Interfaz {
+/*public class Ejercicio_Interfaz {
     public static void main(String[] args){
-/*
+
 Crear una interfaz llamada Conectable con los metodos:
 -conectarDereha
 -conectarIzquierda
@@ -13,7 +13,8 @@ Implementar la clase Nodo la interfaz, de tal manera que
   autmaticamente el nodo a su derecha se conecte con el nodo  izquierdo.
   De igual manera si el nodo a la derecha se conecta al de la izquierda
   automaticamente el nodo izquierdo se conecta al derecho
- */public interface Conectable{
+
+        interface Conectable{
             void conectarDerecha(Nodo nodo);
             void conectarIzquierda(Nodo nodo);
         }
@@ -65,3 +66,4 @@ Implementar la clase Nodo la interfaz, de tal manera que
         }
     }
 }
+*/
