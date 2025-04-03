@@ -29,8 +29,5 @@ public class Personas {
         System.out.println(nombre + "Tiene a la izquierda a" + izq + "Tiene a la derecha a" + der);
     }
 
-
-
-
 }
 
